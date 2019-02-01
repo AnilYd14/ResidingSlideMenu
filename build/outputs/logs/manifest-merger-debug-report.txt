@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:3:11-43
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:5:11-36
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml:4:11-34
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+		ADDED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
+		INJECTED from /home/appinventiv/AerTrip/ResideMenu/AndroidManifest.xml
